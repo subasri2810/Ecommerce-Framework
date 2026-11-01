@@ -1,0 +1,23 @@
+{
+  "name": "ecommerce-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subasri2810/Ecommerce-Framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/subasri2810/Ecommerce-Framework/issues"
+  },
+  "homepage": "https://github.com/subasri2810/Ecommerce-Framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.6"
+  }
+}
