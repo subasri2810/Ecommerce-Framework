@@ -10,4 +10,5 @@ test("Login to Sauce Demo", async({page})=>{
     let login=new login(page)
     await login.goto()
     await login.LoginToSauceDemo(url,username,password)
+     await login.LoginToSauceDemo(url,username,password)
 })
